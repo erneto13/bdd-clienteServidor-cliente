@@ -1,0 +1,15 @@
+C:\Users\Ernesto Amaral\Desktop\ci shart\BDD_Cliente\bin\Debug\net7.0\BDD_Cliente.exe
+C:\Users\Ernesto Amaral\Desktop\ci shart\BDD_Cliente\bin\Debug\net7.0\BDD_Cliente.deps.json
+C:\Users\Ernesto Amaral\Desktop\ci shart\BDD_Cliente\bin\Debug\net7.0\BDD_Cliente.runtimeconfig.json
+C:\Users\Ernesto Amaral\Desktop\ci shart\BDD_Cliente\bin\Debug\net7.0\BDD_Cliente.dll
+C:\Users\Ernesto Amaral\Desktop\ci shart\BDD_Cliente\bin\Debug\net7.0\BDD_Cliente.pdb
+C:\Users\Ernesto Amaral\Desktop\ci shart\BDD_Cliente\obj\Debug\net7.0\BDD_Cliente.csproj.AssemblyReference.cache
+C:\Users\Ernesto Amaral\Desktop\ci shart\BDD_Cliente\obj\Debug\net7.0\BDD_Cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ernesto Amaral\Desktop\ci shart\BDD_Cliente\obj\Debug\net7.0\BDD_Cliente.AssemblyInfoInputs.cache
+C:\Users\Ernesto Amaral\Desktop\ci shart\BDD_Cliente\obj\Debug\net7.0\BDD_Cliente.AssemblyInfo.cs
+C:\Users\Ernesto Amaral\Desktop\ci shart\BDD_Cliente\obj\Debug\net7.0\BDD_Cliente.csproj.CoreCompileInputs.cache
+C:\Users\Ernesto Amaral\Desktop\ci shart\BDD_Cliente\obj\Debug\net7.0\BDD_Cliente.dll
+C:\Users\Ernesto Amaral\Desktop\ci shart\BDD_Cliente\obj\Debug\net7.0\refint\BDD_Cliente.dll
+C:\Users\Ernesto Amaral\Desktop\ci shart\BDD_Cliente\obj\Debug\net7.0\BDD_Cliente.pdb
+C:\Users\Ernesto Amaral\Desktop\ci shart\BDD_Cliente\obj\Debug\net7.0\BDD_Cliente.genruntimeconfig.cache
+C:\Users\Ernesto Amaral\Desktop\ci shart\BDD_Cliente\obj\Debug\net7.0\ref\BDD_Cliente.dll
